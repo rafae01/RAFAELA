@@ -1,40 +1,19 @@
-body{
-    background-color: ;
-    }
-    
-    Estilizar o título principal do seu site
-     h1{
-    color:pink ;
-    font-family: ; 
-    background: ;
-    }
-    
-    Estilizar os parágrafos
-    p{
-    color: ;
-    font-family: ;
-    font-size: ;
-    background: ;
-    }
 
-<<<<<<< HEAD
 body{
     background-color: rgb(224, 157, 210);
     }
     
     Estilizar o título principal do seu site
      h1{
-    color: ;blue
-    font-family: ;caret-color: rgb(23, 133, 133)
-    background: ;pink
+    color: ;
+    font-family: blue;caret-color: rgb(23, 133, 133)
+    background: pink;
     }
     
     Estilizar os parágrafos
     p{
-    color: ;background-color: rgb(19, 243, 243)
-    font-family: ;background-color:azure
-    font-size: ;pink
-    background: ;background-color: aquamarine;
+    color: ;background-color: rgb(19, 243, 243);
+    font-family:purple;
+    font-size: grey;
+    background:pink ;
     }
-=======
->>>>>>> 075091375021fc87b39ce03f8abd0ed0879e853b
